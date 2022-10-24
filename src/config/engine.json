@@ -1,0 +1,38 @@
+{
+  "engineName": "btctranscripts",
+  "endpointBase": "https://my-test-es-deploy.ent.us-central1.gcp.cloud.es.io",
+  "searchKey": "search-bjqwxsgfhdnyyhe1arsfxtaq",
+  "resultFields": [
+    "Transcript_by",
+    "author",
+    "btctranscripts_link",
+    "categories",
+    "content",
+    "date",
+    "language",
+    "location",
+    "other_links",
+    "slides_link",
+    "speaker",
+    "speakers",
+    "tag",
+    "tags",
+    "title",
+    "topic",
+    "transcript by",
+    "transcript_by",
+    "translation_by",
+    "video_link",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+    "author",
+    "categories",
+    "topic",
+    "tags"
+  ],
+  "titleField": "title"
+}
